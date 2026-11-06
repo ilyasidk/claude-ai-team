@@ -1,0 +1,1 @@
+{ "name": "limits-widget", "version": "0.1.0", "description": "Pane with the usage limits of Claude, Codex and Antigravity (Gemini)", "types": "./types/index.d.ts" }
